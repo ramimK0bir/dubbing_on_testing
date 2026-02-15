@@ -1,0 +1,32 @@
+Non-Commercial MIT-style License
+
+Copyright (c) 2025 userAnonymous
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software for non-commercial purposes only, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, and sublicense
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+1. Non-Commercial Use Only. The rights granted in this license are limited to
+   non-commercial purposes. "Non-commercial" means not primarily intended for
+   or directed toward commercial advantage, monetary compensation, or the
+   provision of a product or service for a fee or other consideration. Any
+   commercial use of this Software is strictly prohibited without prior written
+   permission from the copyright holder.
+
+2. Attribution. The above copyright notice and this permission notice shall be
+   included in all copies or substantial portions of the Software.
+
+3. Derivative Works. You may create modifications or derivative works of this
+   Software, but only for non-commercial purposes, and under the same license
+   terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
