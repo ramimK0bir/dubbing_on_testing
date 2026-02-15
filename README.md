@@ -29,6 +29,18 @@ pip install -r requirements.txt
 python main.py --input ./test.mp4 --lang hi --output output.mp4
 ```
 
+# Google Colab Recommendation
+
+Use [Google Colab](https://colab.research.google.com/github/dubbing/blob/main/Dubbing.ipynb) for a better coding experience:  
+- Faster execution with free GPU/TPU resources  
+- Easy access to Python and machine learning libraries  
+- Seamless cloud-based workflow with no local setup required  
+- Simple sharing and collaboration via links  
+
+*(Replace the link above with your own Colab, GitHub, or notebook link.)*
+
+
+
 # Arguments
 When running main.py, you can pass the following arguments:
 
