@@ -34,7 +34,7 @@ python main.py --input ./test.mp4 --lang hi --output output.mp4
 
 # Google Colab Recommendation
 
-Use [Google Colab](https://colab.research.google.com/github/ramimK0bir/dubbing/blob/main/Dubbing.ipynb) for a better coding experience:  
+Use [Google Colab](https://colab.research.google.com/github/ramimK0bir/dubbing/blob/v0.0.1/Dubbing.ipynb) for a better coding experience:  
 - Faster execution with free GPU/TPU resources  
 - Easy access to Python and machine learning libraries  
 - Seamless cloud-based workflow with no local setup required  
